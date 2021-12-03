@@ -12,15 +12,22 @@
  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="express" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-plain-wordmark.svg" alt="doctrine" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-plain-wordmark.svg" alt="zend" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-plain-wordmark.svg" alt="doctrine" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" alt="redis" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="express" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="express" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="express" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
 
 </p>
