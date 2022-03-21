@@ -1,6 +1,6 @@
 <h1 align="center">🌲 Hi, I'm Andrei Tsvyrko 🌲</h1>
 <p align="center">
- <a href="https://www.linkedin.com/in/andrew-tsvyrko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/forest-andrew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.instagram.com/nordic_alf" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://vk.com/nordic_alf" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"></a>
 </p>
