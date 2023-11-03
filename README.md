@@ -13,7 +13,9 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-plain-wordmark.svg" alt="zend" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-plain-wordmark.svg" alt="doctrine" width="40" height="40"/>
